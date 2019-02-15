@@ -5,8 +5,6 @@ import java.util.List;
 import java.util.Optional;
 import java.util.ResourceBundle;
 
-import javax.security.auth.callback.ConfirmationCallback;
-
 import br.com.treinabeb.agenda.repositorios.interfaces.AgendaRepositorio;
 import br.com.treinaweb.agenda.entidades.Contato;
 import br.com.treinaweb.repositorios.impl.ContatoRepositorio;
